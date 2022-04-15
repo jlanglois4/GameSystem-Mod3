@@ -1,5 +1,5 @@
-from Grades import Grades
-from Hours import Hours
+from grades import Grades
+from hours import Hours
 
 
 def get_grades(grade_count):
